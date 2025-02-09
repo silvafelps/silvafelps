@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 i`m Felipe Silva.<br><br>👨‍🎓I'm currently studying Python at Growdev</h2>
+<h2 align="left">Hi 👋 i`m Felipe Silva a Brazilian RPA developer<br><br>👨‍🎓I'm currently studying Python at Growdev</h2>
 
 
 # 💻 Tech Stack:
