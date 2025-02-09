@@ -24,3 +24,4 @@
 </div>
 
 ###
+![snake gif](https://github.com/silvafelps/silvafelps/blob/output/github-snake-dark.svg)
