@@ -25,5 +25,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/silvafelps/silvafelps/output/snake.svg" alt="Snake animation" />
